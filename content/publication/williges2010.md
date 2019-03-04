@@ -4,4 +4,5 @@ date: 2013-07-01
 draft: false
 publication: "*Energy Policy* 28(8) pp. 3089-3097"
 authors: ["Keith Williges", "Johann Lilliestam", "Anthony Patt"]
+doi: "10.1016/j.enpol.2010.01.049"
 ---
