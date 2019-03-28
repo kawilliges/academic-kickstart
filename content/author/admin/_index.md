@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Scientist / PhD student"
+role = "Scientist / PhD candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,7 +34,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in progress in economics"
+  course = "PhD (in progress) in Economics"
   institution = "University of Graz"
   year = 2016
 
@@ -92,4 +92,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I"m currently a PhD student at the University of Graz, doing research on the economics of climate change, focusing mainly on mitigation, dabbling in impacts and adaptation occasionally. I like to use R. Maybe someday I'll switch to Python but I doubt it.
+I'm currently a PhD candidate at the University of Graz, doing research on the economics of climate change, focusing mainly on mitigation, dabbling in impacts and adaptation occasionally. I like to use R; maybe someday I'll switch to Python.
